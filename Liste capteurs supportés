@@ -1,8 +1,8 @@
-PLANTOWER PMS 5003 --------------------------x NON TESTE
+PLANTOWER PMS 5003 --------------------------x EN COUR
 BME280---------------------------------------v OK
-TINYRTC MODULE-------------------------------x NON TESTE
-ML8511 UV MODULE-----------------------------x NON TESTE
-BH-1750 (CJMCU-43) LUXMETRE------------------x NON TESTE
-MLX90614 (CJMCU-906) Thermometre IR----------x NON TESTE
-MQ-7 Monoxyde de Carbone---------------------x NON TESTE
+TINYRTC MODULE-------------------------------x NO TEST
+ML8511 UV MODULE-----------------------------x NO TEST
+BH-1750 (CJMCU-43) LUXMETRE------------------x NO TEST
+MLX90614 (CJMCU-906) Thermometre IR----------x NO TEST
+MQ-7 Monoxyde de Carbone---------------------x NO TEST
 HTUD21---------------------------------------v OK
